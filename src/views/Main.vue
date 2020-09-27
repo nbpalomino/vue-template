@@ -2,7 +2,7 @@
   <!-- Main Content -->
   <main class="bg-purple-200 w-full">
     <div>
-      <Video title="My favorite image" image="pics.jpg" url="youtu.be/2137s7qwe" />
+      <Video title="My favorite image" image="assets/img/logo-core42.png" url="youtu.be/2137s7qwe" />
     </div>
   </main>
   <!-- End of Main Content -->
